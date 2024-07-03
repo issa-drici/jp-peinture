@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config'
 
 export default defineConfig({
-  site: 'https://issa-drici.github.io',
+  site: 'https://sp-peinture.github.io',
   base: '/jp-peinture',
 })
