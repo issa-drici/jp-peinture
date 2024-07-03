@@ -11,16 +11,16 @@
   },
   "dependencies": {
     "@astrojs/netlify": "^3.0.2",
-    "@astrojs/react": "^3.0.2",
+    "@astrojs/react": "^3.6.0",
     "@astrojs/tailwind": "^5.0.0",
     "@astrojs/vercel": "^5.2.0",
-    "@types/react": "^18.2.22",
-    "@types/react-dom": "^18.2.7",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
     "astro": "^3.1.2",
     "framer-motion": "^10.16.4",
-    "react": "^18.2.0",
+    "react": "^19.0.0-beta",
     "react-countup": "^6.4.2",
-    "react-dom": "^18.2.0",
+    "react-dom": "^19.0.0-beta",
     "tailwindcss": "^3.3.3"
   }
 }
